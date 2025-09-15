@@ -32,7 +32,7 @@
 
 ---
 
-## 📫 Connect with Me- [LinkedIn](https://www.linkedin.com/) (add your real link)  
+## 📫 Connect with Me 
 - GitHub: [hassan-bio-ai](https://github.com/hassan-bio-ai)  
 
 ---
