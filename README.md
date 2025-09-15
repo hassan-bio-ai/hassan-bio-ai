@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**hassan-bio-ai/hassan-bio-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hassan 👋  
 
-Here are some ideas to get you started:
+🎓 **Biomedical Engineering Student**  
+🤖 Passionate about **Artificial Intelligence & Medical Applications**  
+📍 Based in Turkey  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Doing Now
+- Starting my **1-year learning journey**.  
+- Documenting everything I learn here on GitHub.  
+- Currently focusing on:  
+  - Git & GitHub basics  
+  - Python programming  
+  - Fundamentals of AI & Machine Learning  
+
+---
+
+## 🎯 Goals for This Year
+- Build small projects to strengthen my coding skills.  
+- Explore **AI in healthcare & medical imaging**.  
+- Share my progress step by step to inspire others on a similar path.  
+
+---
+
+## 📂 Upcoming Projects
+- Python mini projects (algorithms, data analysis).  
+- Beginner AI experiments.  
+- Applications in **biomedical engineering** (e.g., image processing for medical scans).  
+
+---
+
+## 📫 Connect with Me- [LinkedIn](https://www.linkedin.com/) (add your real link)  
+- GitHub: [hassan-bio-ai](https://github.com/hassan-bio-ai)  
+
+---
+
+✨ *This profile is a reflection of my learning journey. Every repository is a step toward my bigger goal: applying AI in biomedical engineering.*  
